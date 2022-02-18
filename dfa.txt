@@ -1,8 +1,8 @@
-e,o
-0,1
-e
-e
-e,0,e
-e,1,o
-o,0,e
-o,1,o
+q1,q2
+a,b
+q1
+q2
+q1,a,q2
+q1,b,q1
+q2,a,q2
+q2,b,q2
